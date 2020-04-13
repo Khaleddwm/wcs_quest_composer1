@@ -1,0 +1,16 @@
+{
+    "name": "khaled/quest_composer1",
+    "description": "quête composer",
+    "authors": [
+        {
+            "name": "Khaled Benharrat",
+            "email": "benk.devweb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "App\\": "src/"
+        }
+    }
+}
